@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://schengentraveldocs.github.io/schengen-traveldocs-website/sitemap.xml

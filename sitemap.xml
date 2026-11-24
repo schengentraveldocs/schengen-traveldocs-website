@@ -1,32 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://schengentraveldocs.github.io/schengen-traveldocs-website/</loc>
-  </url>
-
-  <url>
-    <loc>https://schengentraveldocs.github.io/schengen-traveldocs-website/about.html</loc>
-  </url>
-
-  <url>
-    <loc>https://schengentraveldocs.github.io/schengen-traveldocs-website/schengen-visa.html</loc>
-  </url>
-
-  <url>
-    <loc>https://schengentraveldocs.github.io/schengen-traveldocs-website/digital-nomad-visa.html</loc>
-  </url>
-
-  <url>
-    <loc>https://schengentraveldocs.github.io/schengen-traveldocs-website/portfolio.html</loc>
-  </url>
-
-  <url>
-    <loc>https://schengentraveldocs.github.io/schengen-traveldocs-website/disclaimer.html</loc>
-  </url>
-
-  <url>
-    <loc>https://schengentraveldocs.github.io/schengen-traveldocs-website/privacy-policy.html</loc>
-  </url>
-
+  <url><loc>https://schengentraveldocs.github.io/schengen-traveldocs-website/</loc></url>
+  <url><loc>https://schengentraveldocs.github.io/schengen-traveldocs-website/about.html</loc></url>
+  <url><loc>https://schengentraveldocs.github.io/schengen-traveldocs-website/schengen-visa.html</loc></url>
+  <url><loc>https://schengentraveldocs.github.io/schengen-traveldocs-website/digital-nomad-visa.html</loc></url>
+  <url><loc>https://schengentraveldocs.github.io/schengen-traveldocs-website/portfolio.html</loc></url>
+  <url><loc>https://schengentraveldocs.github.io/schengen-traveldocs-website/disclaimer.html</loc></url>
+  <url><loc>https://schengentraveldocs.github.io/schengen-traveldocs-website/privacy-policy.html</loc></url>
 </urlset>
